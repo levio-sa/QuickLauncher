@@ -1,0 +1,16 @@
+html,body {
+    font-family: "Open Sans", sans-serif;
+    font-size: 14px;
+    padding: 0;
+    width: 384px;
+    min-height: 180px;
+}
+
+h1 {
+    font-family: "Menlo", monospace;
+    font-size: 50px;
+    font-weight: 400;
+    margin: 0;
+    color: #2f5876;
+}
+a
